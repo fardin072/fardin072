@@ -8,7 +8,7 @@
 </div>
 
 <!-- Header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c2d4e&height=200&section=header&text=MD.%20Omur%20Faruque%20Talukder&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20TypeScript%20%7C%20AWS&descAlignY=60&descSize=17&descColor=f5c6d5" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c2d4e&height=200&section=header&text=MD.%20Omur%20Faruque%20Talukder&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AWS&descAlignY=60&descSize=17&descColor=f5c6d5" alt="Header" />
 
 <div align="center">
 
